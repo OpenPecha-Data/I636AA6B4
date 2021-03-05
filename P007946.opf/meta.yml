@@ -1,25 +1,28 @@
-id: opecha:P007946
+id: P007946
 initial_creation_type: ocr
 source_metadata:
   id: bdr:W1GS45274
   title: གསུང་འབུམ། ཚེ་དབང་ནོར་བུ།
-  volume:
+  author: ''
+  volumes:
     0afea4ad5bcc4cc88383cca8b0106ee2:
       image_group_id: I1GS66283
       title: Volume 1 of gsung 'bum/_tshe dbang nor bu
       volume_number: 1
       total_pages: 908
+      base_file: v001.txt
     96a52da2bba347648b76733e00a0e0d8:
       image_group_id: I1GS66284
       title: Volume 2 of gsung 'bum/_tshe dbang nor bu
       volume_number: 2
       total_pages: 754
+      base_file: v002.txt
     9aaa73291d7f4f5b8b80a01816a74a51:
       image_group_id: I1GS66285
       title: Volume 3 of gsung 'bum/_tshe dbang nor bu
       volume_number: 3
       total_pages: 678
-  author: ''
+      base_file: v003.txt
 ebook_metadata:
   title: གསུང་འབུམ། ཚེ་དབང་ནོར་བུ།
   author: ''
