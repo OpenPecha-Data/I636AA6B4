@@ -5,21 +5,24 @@ source_metadata:
   title: གསུང་འབུམ། ཚེ་དབང་ནོར་བུ།
   author: ''
   volumes:
-    92ee9ec9401b43bf96ac5c027a9b21ac:
+    0afea4ad5bcc4cc88383cca8b0106ee2:
       image_group_id: I1GS66283
-      title: ''
+      title: Volume 1 of gsung 'bum/_tshe dbang nor bu
       volume_number: 1
       total_pages: 908
-    cf6c365a11424f12a506bafc327183d0:
+      base_file: v001.txt
+    96a52da2bba347648b76733e00a0e0d8:
       image_group_id: I1GS66284
-      title: ''
+      title: Volume 2 of gsung 'bum/_tshe dbang nor bu
       volume_number: 2
       total_pages: 754
-    bad9a7a1ca544d51bbadb9529e413910:
+      base_file: v002.txt
+    9aaa73291d7f4f5b8b80a01816a74a51:
       image_group_id: I1GS66285
-      title: ''
+      title: Volume 3 of gsung 'bum/_tshe dbang nor bu
       volume_number: 3
       total_pages: 678
+      base_file: v003.txt
 ebook_metadata:
   title: གསུང་འབུམ། ཚེ་དབང་ནོར་བུ།
   author: ''
